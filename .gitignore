@@ -1,0 +1,13 @@
+*.eml
+*.msg
+*.zip
+*.docm
+*.doc
+*.xlz
+*.xlsm
+*.pdf
+*.exe
+*.dll
+*.iso
+*.lnk
+samples/
