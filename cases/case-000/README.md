@@ -1,5 +1,7 @@
 # Case 000 — Baseline: authenticated promotional email with image attachment (Gmail)
+
 **Analyst:** Alex Dafoulas
+
 **Date of analysis:** 2026-10-02
 
 ## 0. Acquisition and handling
