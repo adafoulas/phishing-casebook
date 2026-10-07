@@ -128,7 +128,8 @@ On 8 September 2026, a personal Outlook.com mailbox received an email, sent from
 
 ## 7. MITRE ATT&CK mapping
 
-| Tactic | Technique | ID ||---|---|---|
+| Tactic | Technique | ID |
+|---|---|---|
 | Reconnaissance (TA0043) | Phishing for Information | T1598 |
 | Initial Access (TA0001) | Phishing | T1566 |
 | Stealth (TA0005) | Social Engineering: Impersonation | T1684.001 |
