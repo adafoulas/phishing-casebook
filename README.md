@@ -1,4 +1,5 @@
-# Phishing Analysis CasebookStatic analyses of phishing emails, written up the way a SOC analyst
+# Phishing Analysis Casebook 
+Static analyses of phishing emails, written up the way a SOC analyst
 would document them: how the sample was acquired, what the headers,
 authentication results, links and attachments show, a verdict with its
 basis, an ATT&CK mapping, the response a SOC would take, and a
